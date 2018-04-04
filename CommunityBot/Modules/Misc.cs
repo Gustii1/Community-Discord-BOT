@@ -121,5 +121,6 @@ namespace CommunityBot.Modules
         {
             await ReplyAsync($"The Answer To That Is: {num1 / num2}");
         }
+
     }
 }
