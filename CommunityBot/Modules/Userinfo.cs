@@ -70,4 +70,3 @@ namespace CommunityBot.Modules
         }
     }
 }
-}
